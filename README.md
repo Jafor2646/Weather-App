@@ -11,9 +11,7 @@ A modern Android weather application built with Kotlin that provides real-time w
 - 📍 **Location Services**: GPS-based location detection
 - 🔄 **Real-time Updates**: Fresh weather data from OpenWeatherMap API
 
-## Screenshots
 
-*Add screenshots of your app here*
 
 ## Tech Stack
 
