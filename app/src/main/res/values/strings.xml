@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Weather App</string>
     <string name="dhaka">Dhaka</string>
+    <string name="city_name">City Name</string>
+    <string name="monday_sep_29">Monday, Sep 29</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="_25_c">25°C</string>
 </resources>

@@ -10,10 +10,6 @@ object TimeUtils {
         return dateFormat.format(Date())
     }
 
-    fun getCurrentTime(): String {
-        val timeFormat = SimpleDateFormat("HH:mm", Locale.getDefault())
-        return timeFormat.format(Date())
-    }
 
     fun isDayTime(): Boolean {
         val calendar = Calendar.getInstance()
